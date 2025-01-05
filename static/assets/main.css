@@ -41,6 +41,10 @@ a {
     color: #555;
 }
 
+p {
+    text-align: justify;
+}
+
 a:visited {
     color: #666;
 }
